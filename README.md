@@ -1,9 +1,10 @@
 # Math Statistics Calculator
 
+**Author:** Terence Lee Xin Jin<br/><br/>
 
 A  WPF Desktop app that allows the calculation of various common statistics values.<br/>
 
-*Calculates the following statistics values:**<br/> 
+**Calculates the following statistics values:**<br/> 
 <ul>
   <li>Sum</li>
   <li>Range</li>
@@ -16,7 +17,7 @@ A  WPF Desktop app that allows the calculation of various common statistics valu
   <li>Variance</li>
 </ul>
 
-**Author:** Terence Lee Xin Jin<br/><br/>
+
 
 
 
