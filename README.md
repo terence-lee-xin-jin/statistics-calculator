@@ -12,7 +12,7 @@ A  WPF Desktop app that allows the calculation of various common statistics valu
   <li>Max</li>
   <li>Mean</li>
   <li>Median</li>
-  <li>Mean</li>
+  <li>Mode</li>
   <li>Standard Deviation</li>
   <li>Variance</li>
 </ul>
