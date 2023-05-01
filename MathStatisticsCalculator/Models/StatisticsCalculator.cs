@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 
 
-
-namespace Calculator.Models
+namespace Calculator
 {
 
     /// <summary>

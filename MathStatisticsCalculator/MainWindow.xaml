@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="800">
+        Title="Statistics Calculator By Terence Lee" Height="600" Width="800">
     <ScrollViewer>
         <StackPanel Margin="30 0 30 30">
         

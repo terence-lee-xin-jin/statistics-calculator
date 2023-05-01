@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
-using Calculator.Models;
+using Calculator;
+
 
 namespace Calculator
 {
@@ -43,8 +44,8 @@ namespace Calculator
             }
             catch (Exception)
             {
-                MessageBox.Show("Invalid numbers entered, or numbers" +
-                    "not separated using commas", "Error");
+                MessageBox.Show("Invalid numbers entered, or the numbers are " +
+                    "not separated using commas.", "Error");
             }
         }
 
